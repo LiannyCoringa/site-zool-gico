@@ -1,0 +1,22 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.header h1 {
+    text-align: center;
+    color: blue;
+}
+.main {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+.Relatório {
+    background-color: rgb(211, 207, 207);
+    margin: 25px;
+}
+.Infos {
+    background-color: rgb(211, 207, 207);
+    margin: 25px;
+}
