@@ -15,8 +15,26 @@ body {
 .Relatório {
     background-color: rgb(211, 207, 207);
     margin: 25px;
+    padding: 15px;
 }
 .Infos {
     background-color: rgb(211, 207, 207);
     margin: 25px;
+    padding: 15px;
+}
+h2 {
+    text-align: center;
+}
+.imagens {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.imagens img {
+    width: 500px;
+}
+.footer {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(233, 223, 223);
 }
